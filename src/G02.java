@@ -14,4 +14,8 @@ public class G02 {
     git push
 
      */
+    public static void main(String[] args) {
+        System.out.println("işlem ekleyelim");
+
+    }
 }

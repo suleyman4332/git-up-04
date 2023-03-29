@@ -16,6 +16,8 @@ public class G02 {
      */
     public static void main(String[] args) {
         System.out.println("işlem ekleyelim");
+        System.out.println("HEAD");
+
 
     }
 }
